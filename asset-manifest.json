@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yourengineerbro/yogaapp/static/css/main.e6c13ad2.css",
-    "main.js": "/yourengineerbro/yogaapp/static/js/main.9d540e1a.js",
+    "main.css": "/yourengineerbro/yogaapp/static/css/main.c83a3330.css",
+    "main.js": "/yourengineerbro/yogaapp/static/js/main.1516b9fe.js",
     "static/js/453.ed3810f9.chunk.js": "/yourengineerbro/yogaapp/static/js/453.ed3810f9.chunk.js",
     "index.html": "/yourengineerbro/yogaapp/index.html",
-    "main.e6c13ad2.css.map": "/yourengineerbro/yogaapp/static/css/main.e6c13ad2.css.map",
-    "main.9d540e1a.js.map": "/yourengineerbro/yogaapp/static/js/main.9d540e1a.js.map",
+    "main.c83a3330.css.map": "/yourengineerbro/yogaapp/static/css/main.c83a3330.css.map",
+    "main.1516b9fe.js.map": "/yourengineerbro/yogaapp/static/js/main.1516b9fe.js.map",
     "453.ed3810f9.chunk.js.map": "/yourengineerbro/yogaapp/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.9d540e1a.js"
+    "static/css/main.c83a3330.css",
+    "static/js/main.1516b9fe.js"
   ]
 }
